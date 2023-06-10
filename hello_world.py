@@ -1,7 +1,10 @@
 """
 A simple Python script that prints "Hello, World!" to the console.
 
-This script demonstrates the use of functions and the special __name__ variable in Python. It defines a function hello_world that prints "Hello, World!", and a main function that calls hello_world. The main function is only called if the script is being run directly.
+This script demonstrates the use of functions and the special __name__ variable in Python. 
+It defines a function hello_world that prints "Hello, World!", 
+and a main function that calls hello_world. 
+The main function is only called if the script is being run directly.
 """
 
 def hello_world():
